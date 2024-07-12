@@ -78,7 +78,8 @@ Text data file that records historical events or messages of the OS, an applicat
 
 
 ### Demo
-https://d1.great-site.net/log-post/
+https://d1.is-best.net/log-post/ (self-signed)
+https://d1.great-site.net/log-post/ (Chrome/Edge OK, FF has SSL problem)
 
 
 ### Included Sample Log Files
